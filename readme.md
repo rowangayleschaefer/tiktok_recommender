@@ -1,8 +1,6 @@
 <div align = center><h2> TikTok Video Recommender </h2>
     
-This is a truncated version of my final capstone project; repo only includes modeling steps and data used for modeling. 
-
-Data acquisition, cleaning, and anaylsis sections have not been included in this repo. 
+This is a truncated version of my final capstone project; repo only includes modeling steps and data used for modeling. Data acquisition, cleaning, and anaylsis sections have not been included in this repo. 
     </div>
     
     
