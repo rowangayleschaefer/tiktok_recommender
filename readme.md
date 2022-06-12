@@ -1,16 +1,16 @@
-#### TikTok Video Recommender
+<div align=center><h2> TikTok Video Recommender <h2></div>
 
 This is a truncated version of my final capstone project; repo only includes modeling steps and data used for modeling. 
 
 Data acquisition, cleaning, and anaylsis sections have not been included in this repo.
 
-<br /><p>
+<br />
 
 #### Data
 
 Trending data by For You Page (FYP) location was scraped from TikTok using Tiktok-All-In-One from FastApi.
 
-<br /><p>
+<br />
 
 #### Overview
 
@@ -20,9 +20,9 @@ Unique preprocessing steps included building out a dictionary of Gen-Z/social me
 
 Final model recommends videos based on lemmatized video description text and hashtags included in description.
 
-<br /><p>
+<br />
 
-Next steps:
+#### Next steps:
     
 * Adding post author, FYP location, origin country of video, and song title/artist to recommender. 
     
@@ -33,9 +33,9 @@ Next steps:
 * Do an API pull for videos; see how closely tiktok's list of recommended (similar) videos matches mine.
     
     
-<br /><p>
+<br />
   
-Ideas to improve performance:
+#### Ideas to improve performance:
    
 * I would like to find a model that was trained on social media (twitter or instagram). Despite returning videos with relevant descriptions, this recommender misses some connections due to issues understanding and comparing compound words.
    
